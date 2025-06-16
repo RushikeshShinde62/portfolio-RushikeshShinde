@@ -28,5 +28,5 @@ This is my personal portfolio website built using **HTML**, **CSS**, **JavaScrip
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RushikeshShinde6200/portfolio-RushikeshShinde.git
    ```
