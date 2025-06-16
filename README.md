@@ -5,7 +5,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, **JavaScrip
 
 ## 🔗 Live Demo
 
-👉 Visit My Portfolio:- [(https://your-portfolio-link.com)](https://portfolio-rushikesh-shinde.netlify.app/)
+👉 Visit My Portfolio:- [](https://portfolio-rushikesh-shinde.netlify.app/)
 
 ## 🛠️ Tech Stack
 
