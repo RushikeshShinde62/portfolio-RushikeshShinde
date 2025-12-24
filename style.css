@@ -444,3 +444,8 @@ body {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
     }
+
+    .vintage-bg {
+  background-color: #d3ceb4; /* muted parchment yellow */
+  border: 2px solid #b49410;
+}
